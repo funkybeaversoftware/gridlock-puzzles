@@ -7,13 +7,30 @@
       "words": ["TOPSY", "TURVY"],
       "displayForm": "TOPSY TURVY",
       "hint": "Up and Down",
-      "difficulty": 4
+      "difficulty": 3
     },
     "columns": [],
-    "difficulty": 4,
+    "difficulty": 3,
     "source": 0,
     "seed": 20260607,
     "createdAt": "2026-06-07T00:00:00Z",
     "dailyDate": "2026-06-07T00:00:00Z"
+  },
+  {
+    "schemaVersion": 1,
+    "date": "2026-06-06",
+    "id": "daily_20260606",
+    "phrase": {
+      "words": ["STAR", "GAZE"],
+      "displayForm": "STAR GAZE",
+      "hint": "Look up at the night sky",
+      "difficulty": 1
+    },
+    "columns": [],
+    "difficulty": 1,
+    "source": 0,
+    "seed": 20260606,
+    "createdAt": "2026-06-06T00:00:00Z",
+    "dailyDate": "2026-06-06T00:00:00Z"
   }
 ]
