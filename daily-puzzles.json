@@ -1,4 +1,21 @@
 [
+    {
+    "schemaVersion": 1,
+    "date": "2026-06-05",
+    "id": "daily_20260605",
+    "phrase": {
+      "words": ["BEEP", "BEEP"],
+      "displayForm": "BEEP BEEP",
+      "hint": "Look up at the night sky",
+      "difficulty": 1
+    },
+    "columns": [],
+    "difficulty": 1,
+    "source": 0,
+    "seed": 20260605,
+    "createdAt": "2026-06-05T00:00:00Z",
+    "dailyDate": "2026-06-05T00:00:00Z"
+  },
   {
     "schemaVersion": 1,
     "date": "2026-06-07",
