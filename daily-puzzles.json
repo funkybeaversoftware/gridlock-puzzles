@@ -1,6 +1,23 @@
 [
   {
     "schemaVersion": 1,
+    "date": "2026-06-07",
+    "id": "daily_20260606",
+    "phrase": {
+      "words": ["TOPSY", "TURVY"],
+      "displayForm": "TOPSY TURVY",
+      "hint": "Up and Down",
+      "difficulty": 4
+    },
+    "columns": [],
+    "difficulty": 4,
+    "source": 0,
+    "seed": 20260607,
+    "createdAt": "2026-06-07T00:00:00Z",
+    "dailyDate": "2026-06-07T00:00:00Z"
+  }
+    {
+    "schemaVersion": 1,
     "date": "2026-06-06",
     "id": "daily_20260606",
     "phrase": {
