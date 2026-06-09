@@ -1,42 +1,617 @@
 [
   {
-    "id": "57e81ab6-be1f-49fe-92d0-616b37cbdab2",
+    "id": "cc128c35-b034-424c-94d9-20efb47b118e",
+    "phrase": {
+      "words": [
+        "FOOT",
+        "BALL"
+      ],
+      "displayForm": "FOOT BALL",
+      "hint": "Round object chased across grassy field by teams"
+    },
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "B",
+          "F",
+          "Y",
+          "C"
+        ],
+        "solutionLetters": [
+          "F",
+          "B"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "A",
+          "E",
+          "O",
+          "M"
+        ],
+        "solutionLetters": [
+          "O",
+          "A"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "J",
+          "L",
+          "Q",
+          "O"
+        ],
+        "solutionLetters": [
+          "O",
+          "L"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "P",
+          "O",
+          "T",
+          "L"
+        ],
+        "solutionLetters": [
+          "T",
+          "L"
+        ]
+      }
+    ],
+    "difficulty": 0,
+    "source": 0,
+    "seed": 761280,
+    "createdAt": "2026-06-09T09:33:10.771",
+    "dailyDate": "2026-06-08T00:00:00.000"
+  },
+  {
+    "id": "41edb268-3d8d-48ab-8de2-9a74d752ede8",
+    "phrase": {
+      "words": [
+        "FIRE",
+        "WALL"
+      ],
+      "displayForm": "FIRE WALL",
+      "hint": "Digital barrier keeps unwanted visitors out"
+    },
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "W",
+          "R",
+          "F",
+          "D"
+        ],
+        "solutionLetters": [
+          "F",
+          "W"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "A",
+          "S",
+          "T",
+          "I"
+        ],
+        "solutionLetters": [
+          "I",
+          "A"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "K",
+          "R",
+          "V",
+          "L"
+        ],
+        "solutionLetters": [
+          "R",
+          "L"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "E",
+          "L",
+          "O",
+          "M"
+        ],
+        "solutionLetters": [
+          "E",
+          "L"
+        ]
+      }
+    ],
+    "difficulty": 0,
+    "source": 0,
+    "seed": 981591,
+    "createdAt": "2026-06-09T09:32:05.377",
+    "dailyDate": "2026-06-09T00:00:00.000"
+  },
+  {
+    "id": "5cc2ce38-6640-41f8-8954-e681454b209a",
+    "phrase": {
+      "words": [
+        "HEART",
+        "BREAK"
+      ],
+      "displayForm": "HEART BREAK",
+      "hint": "Love's painful opposite, sudden and sharp"
+    },
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "B",
+          "H",
+          "M",
+          "V",
+          "K"
+        ],
+        "solutionLetters": [
+          "H",
+          "B"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "E",
+          "H",
+          "Q",
+          "R",
+          "U"
+        ],
+        "solutionLetters": [
+          "E",
+          "R"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "V",
+          "A",
+          "E",
+          "F",
+          "P"
+        ],
+        "solutionLetters": [
+          "A",
+          "E"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "H",
+          "A",
+          "R",
+          "N",
+          "M"
+        ],
+        "solutionLetters": [
+          "R",
+          "A"
+        ]
+      },
+      {
+        "index": 4,
+        "letters": [
+          "T",
+          "Z",
+          "F",
+          "B",
+          "K"
+        ],
+        "solutionLetters": [
+          "T",
+          "K"
+        ]
+      }
+    ],
+    "difficulty": 1,
+    "source": 0,
+    "seed": 456964,
+    "createdAt": "2026-06-09T09:32:06.427",
+    "dailyDate": "2026-06-10T00:00:00.000"
+  },
+  {
+    "id": "32124f06-28f4-44a8-a89f-550b351c67ad",
+    "phrase": {
+      "words": [
+        "LIGHT",
+        "HOUSE"
+      ],
+      "displayForm": "LIGHT HOUSE",
+      "hint": "Beacon guides ships through darkness safely"
+    },
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "S",
+          "H",
+          "L",
+          "P",
+          "M"
+        ],
+        "solutionLetters": [
+          "L",
+          "H"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "R",
+          "I",
+          "U",
+          "F",
+          "O"
+        ],
+        "solutionLetters": [
+          "I",
+          "O"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "G",
+          "C",
+          "S",
+          "W",
+          "U"
+        ],
+        "solutionLetters": [
+          "G",
+          "U"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "H",
+          "G",
+          "Z",
+          "S",
+          "O"
+        ],
+        "solutionLetters": [
+          "H",
+          "S"
+        ]
+      },
+      {
+        "index": 4,
+        "letters": [
+          "K",
+          "W",
+          "T",
+          "E",
+          "G"
+        ],
+        "solutionLetters": [
+          "T",
+          "E"
+        ]
+      }
+    ],
+    "difficulty": 1,
+    "source": 0,
+    "seed": 636280,
+    "createdAt": "2026-06-09T09:32:07.711",
+    "dailyDate": "2026-06-11T00:00:00.000"
+  },
+  {
+    "id": "dbbf5880-6fea-4347-b2c3-15c1764871c5",
+    "phrase": {
+      "words": [
+        "SWEET",
+        "HEART"
+      ],
+      "displayForm": "SWEET HEART",
+      "hint": "Affection wrapped in candy, whispered softly"
+    },
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "V",
+          "B",
+          "C",
+          "S",
+          "H",
+          "U"
+        ],
+        "solutionLetters": [
+          "S",
+          "H"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "A",
+          "K",
+          "W",
+          "E",
+          "S",
+          "Q"
+        ],
+        "solutionLetters": [
+          "W",
+          "E"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "X",
+          "A",
+          "Q",
+          "N",
+          "E",
+          "B"
+        ],
+        "solutionLetters": [
+          "E",
+          "A"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "H",
+          "X",
+          "I",
+          "E",
+          "R",
+          "Y"
+        ],
+        "solutionLetters": [
+          "E",
+          "R"
+        ]
+      },
+      {
+        "index": 4,
+        "letters": [
+          "G",
+          "W",
+          "T",
+          "H",
+          "Z",
+          "T"
+        ],
+        "solutionLetters": [
+          "T",
+          "T"
+        ]
+      }
+    ],
+    "difficulty": 2,
+    "source": 0,
+    "seed": 450830,
+    "createdAt": "2026-06-09T09:32:08.760",
+    "dailyDate": "2026-06-12T00:00:00.000"
+  },
+  {
+    "id": "c9533c84-bac7-4185-94e8-65a7648614da",
     "phrase": {
       "words": [
         "BUTTER",
-        "FINGER"
+        "SCOTCH"
       ],
-      "displayForm": "BUTTERFINGER",
-      "hint": "Clumsy — or a candy bar",
-      "difficulty": 2
+      "displayForm": "BUTTER SCOTCH",
+      "hint": "Sticky situation sweetly resolved without commitment"
     },
-    "columns": [],
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "B",
+          "Q",
+          "R",
+          "N",
+          "S",
+          "F"
+        ],
+        "solutionLetters": [
+          "B",
+          "S"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "U",
+          "C",
+          "M",
+          "K",
+          "T",
+          "X"
+        ],
+        "solutionLetters": [
+          "U",
+          "C"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "W",
+          "G",
+          "Q",
+          "O",
+          "Z",
+          "T"
+        ],
+        "solutionLetters": [
+          "T",
+          "O"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "C",
+          "L",
+          "R",
+          "T",
+          "H",
+          "T"
+        ],
+        "solutionLetters": [
+          "T",
+          "T"
+        ]
+      },
+      {
+        "index": 4,
+        "letters": [
+          "J",
+          "M",
+          "E",
+          "Q",
+          "C",
+          "H"
+        ],
+        "solutionLetters": [
+          "E",
+          "C"
+        ]
+      },
+      {
+        "index": 5,
+        "letters": [
+          "K",
+          "C",
+          "X",
+          "Z",
+          "H",
+          "R"
+        ],
+        "solutionLetters": [
+          "R",
+          "H"
+        ]
+      }
+    ],
     "difficulty": 2,
-    "source": 2,
-    "seed": 757596,
-    "createdAt": "2026-06-07T19:18:29.858",
-    "dailyDate": "2026-06-07T00:00:00.000",
-    "date": "2026-06-07",
-    "schemaVersion": 1
+    "source": 0,
+    "seed": 167551,
+    "createdAt": "2026-06-09T09:32:10.741",
+    "dailyDate": "2026-06-13T00:00:00.000"
   },
   {
-    "id": "33d62daf-7a8a-4089-bd13-f090b4c376b2",
+    "id": "7c1a6e5a-9ffa-41ac-a699-5a5d5b2f7c13",
     "phrase": {
       "words": [
-        "NIGHT",
-        "GOWNS"
+        "WATER",
+        "MELON"
       ],
-      "displayForm": "NIGHT GOWNS",
-      "hint": "Sleepwear, plural",
-      "difficulty": 2
+      "displayForm": "WATER MELON",
+      "hint": "Summer sweetness, green rind, picnic staple."
     },
-    "columns": [],
-    "difficulty": 2,
-    "source": 2,
-    "seed": 689049,
-    "createdAt": "2026-06-07T19:18:29.845",
-    "dailyDate": "2026-06-08T00:00:00.000",
-    "date": "2026-06-08",
-    "schemaVersion": 1
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "X",
+          "M",
+          "B",
+          "F",
+          "N",
+          "W",
+          "H"
+        ],
+        "solutionLetters": [
+          "W",
+          "M"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "X",
+          "E",
+          "B",
+          "Z",
+          "A",
+          "V",
+          "J"
+        ],
+        "solutionLetters": [
+          "A",
+          "E"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "O",
+          "T",
+          "L",
+          "N",
+          "R",
+          "Y",
+          "I"
+        ],
+        "solutionLetters": [
+          "T",
+          "L"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "S",
+          "T",
+          "O",
+          "B",
+          "E",
+          "F",
+          "K"
+        ],
+        "solutionLetters": [
+          "E",
+          "O"
+        ]
+      },
+      {
+        "index": 4,
+        "letters": [
+          "S",
+          "R",
+          "F",
+          "E",
+          "U",
+          "N",
+          "L"
+        ],
+        "solutionLetters": [
+          "R",
+          "N"
+        ]
+      }
+    ],
+    "difficulty": 3,
+    "source": 0,
+    "seed": 748171,
+    "createdAt": "2026-06-09T09:32:16.442",
+    "dailyDate": "2026-06-14T00:00:00.000"
   }
 ]
