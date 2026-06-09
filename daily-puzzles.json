@@ -84,9 +84,9 @@
         "index": 0,
         "letters": [
           "W",
-          "R",
-          "F",
-          "D"
+          "O",
+          "Q",
+          "F"
         ],
         "solutionLetters": [
           "F",
@@ -96,10 +96,10 @@
       {
         "index": 1,
         "letters": [
+          "U",
           "A",
-          "S",
-          "T",
-          "I"
+          "I",
+          "Y"
         ],
         "solutionLetters": [
           "I",
@@ -109,10 +109,10 @@
       {
         "index": 2,
         "letters": [
-          "K",
+          "L",
           "R",
-          "V",
-          "L"
+          "T",
+          "I"
         ],
         "solutionLetters": [
           "R",
@@ -122,10 +122,10 @@
       {
         "index": 3,
         "letters": [
-          "E",
+          "S",
           "L",
-          "O",
-          "M"
+          "E",
+          "G"
         ],
         "solutionLetters": [
           "E",
@@ -134,9 +134,9 @@
       }
     ],
     "difficulty": 0,
-    "source": 0,
-    "seed": 981591,
-    "createdAt": "2026-06-09T09:32:05.377",
+    "source": 2,
+    "seed": 1781004880337,
+    "createdAt": "2026-06-09T20:34:40.340",
     "dailyDate": "2026-06-09T00:00:00.000"
   },
   {
