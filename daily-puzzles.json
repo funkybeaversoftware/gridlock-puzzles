@@ -147,7 +147,8 @@
         "BREAK"
       ],
       "displayForm": "HEART BREAK",
-      "hint": "Love's painful opposite, sudden and sharp"
+      "hint": "Love's painful opposite, sudden and sharp",
+      "explanation": "Heartbreak is emotional pain from losing someone you love, metaphorically comparing intense sadness to physical heart damage."
     },
     "columns": [
       {
@@ -222,7 +223,7 @@
       }
     ],
     "difficulty": 1,
-    "source": 0,
+    "source": 2,
     "seed": 456964,
     "createdAt": "2026-06-09T09:32:06.427",
     "dailyDate": "2026-06-10T00:00:00.000"
