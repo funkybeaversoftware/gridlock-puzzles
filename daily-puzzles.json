@@ -235,18 +235,19 @@
         "LIGHT",
         "HOUSE"
       ],
-      "displayForm": "LIGHT HOUSE",
-      "hint": "Beacon guides ships through darkness safely"
+      "displayForm": "LIGHTHOUSE",
+      "hint": "Maritime safety",
+      "explanation": "A tall tower with a bright light that guides ships safely past dangerous coastal rocks at night."
     },
     "columns": [
       {
         "index": 0,
         "letters": [
-          "S",
-          "H",
+          "R",
+          "V",
           "L",
-          "P",
-          "M"
+          "H",
+          "B"
         ],
         "solutionLetters": [
           "L",
@@ -256,10 +257,10 @@
       {
         "index": 1,
         "letters": [
-          "R",
+          "E",
           "I",
-          "U",
-          "F",
+          "R",
+          "L",
           "O"
         ],
         "solutionLetters": [
@@ -270,11 +271,11 @@
       {
         "index": 2,
         "letters": [
+          "U",
+          "Q",
           "G",
-          "C",
-          "S",
-          "W",
-          "U"
+          "Z",
+          "Y"
         ],
         "solutionLetters": [
           "G",
@@ -284,11 +285,11 @@
       {
         "index": 3,
         "letters": [
-          "H",
-          "G",
-          "Z",
           "S",
-          "O"
+          "H",
+          "J",
+          "O",
+          "U"
         ],
         "solutionLetters": [
           "H",
@@ -298,11 +299,11 @@
       {
         "index": 4,
         "letters": [
-          "K",
-          "W",
-          "T",
+          "I",
           "E",
-          "G"
+          "G",
+          "D",
+          "T"
         ],
         "solutionLetters": [
           "T",
@@ -311,102 +312,103 @@
       }
     ],
     "difficulty": 1,
-    "source": 0,
-    "seed": 636280,
-    "createdAt": "2026-06-09T09:32:07.711",
+    "source": 2,
+    "seed": 1781157409392,
+    "createdAt": "2026-06-11T14:56:49.407",
     "dailyDate": "2026-06-11T00:00:00.000"
   },
   {
     "id": "dbbf5880-6fea-4347-b2c3-15c1764871c5",
     "phrase": {
       "words": [
-        "SWEET",
-        "HEART"
+        "NIGHT",
+        "STAND"
       ],
-      "displayForm": "SWEET HEART",
-      "hint": "Affection wrapped in candy, whispered softly"
+      "displayForm": "NIGHTSTAND",
+      "hint": "Bedside convenience",
+      "explanation": "A nightstand is a small table next to a bed for holding lamps and personal items."
     },
     "columns": [
       {
         "index": 0,
         "letters": [
-          "V",
-          "B",
+          "Q",
+          "X",
           "C",
           "S",
-          "H",
-          "U"
+          "U",
+          "N"
         ],
         "solutionLetters": [
-          "S",
-          "H"
+          "N",
+          "S"
         ]
       },
       {
         "index": 1,
         "letters": [
-          "A",
-          "K",
-          "W",
-          "E",
-          "S",
-          "Q"
+          "O",
+          "N",
+          "H",
+          "I",
+          "T",
+          "E"
         ],
         "solutionLetters": [
-          "W",
-          "E"
+          "I",
+          "T"
         ]
       },
       {
         "index": 2,
         "letters": [
-          "X",
           "A",
-          "Q",
-          "N",
-          "E",
-          "B"
+          "I",
+          "Z",
+          "U",
+          "J",
+          "G"
         ],
         "solutionLetters": [
-          "E",
+          "G",
           "A"
         ]
       },
       {
         "index": 3,
         "letters": [
+          "M",
+          "O",
+          "W",
           "H",
-          "X",
-          "I",
-          "E",
-          "R",
-          "Y"
+          "N",
+          "R"
         ],
         "solutionLetters": [
-          "E",
-          "R"
+          "H",
+          "N"
         ]
       },
       {
         "index": 4,
         "letters": [
-          "G",
-          "W",
           "T",
-          "H",
-          "Z",
-          "T"
+          "D",
+          "P",
+          "A",
+          "W",
+          "I"
         ],
         "solutionLetters": [
           "T",
-          "T"
+          "D"
         ]
       }
     ],
     "difficulty": 2,
-    "source": 0,
-    "seed": 450830,
-    "createdAt": "2026-06-09T09:32:08.760",
+    "source": 2,
+    "seed": 1781157662897,
+    "createdAt": "2026-06-11T15:01:02.902",
     "dailyDate": "2026-06-12T00:00:00.000"
   },
   {
@@ -417,7 +419,8 @@
         "SCOTCH"
       ],
       "displayForm": "BUTTER SCOTCH",
-      "hint": "Sticky situation sweetly resolved without commitment"
+      "hint": "Sticky situation in Great Britain",
+      "explanation": "Butterscotch is a candy or flavoring made by cooking butter and brown sugar together until caramelized."
     },
     "columns": [
       {
@@ -512,7 +515,7 @@
       }
     ],
     "difficulty": 2,
-    "source": 0,
+    "source": 2,
     "seed": 167551,
     "createdAt": "2026-06-09T09:32:10.741",
     "dailyDate": "2026-06-13T00:00:00.000"
