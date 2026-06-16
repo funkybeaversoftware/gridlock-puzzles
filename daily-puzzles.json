@@ -1,50 +1,124 @@
 [
   {
-    "id": "cc128c35-b034-424c-94d9-20efb47b118e",
+    "id": "052e4159-1efb-49e9-933c-137c43840297",
     "phrase": {
       "words": [
-        "FOOT",
+        "GOLD",
+        "FISH"
+      ],
+      "displayForm": "GOLDFISH",
+      "hint": "A popular pet",
+      "explanation": "A goldfish is a small, orange freshwater fish commonly kept as a pet in bowls and aquariums.",
+      "difficulty": 0
+    },
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "F",
+          "O",
+          "K",
+          "G"
+        ],
+        "solutionLetters": [
+          "G",
+          "F"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "O",
+          "T",
+          "B",
+          "I"
+        ],
+        "solutionLetters": [
+          "O",
+          "I"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "U",
+          "L",
+          "S",
+          "R"
+        ],
+        "solutionLetters": [
+          "L",
+          "S"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "D",
+          "K",
+          "X",
+          "H"
+        ],
+        "solutionLetters": [
+          "D",
+          "H"
+        ]
+      }
+    ],
+    "difficulty": 0,
+    "source": 2,
+    "seed": 999641,
+    "createdAt": "2026-06-11T15:30:01.479",
+    "dailyDate": "2026-06-15T00:00:00.000"
+  },
+  {
+    "id": "137c1491-f758-4e11-8625-9db746a3f6df",
+    "phrase": {
+      "words": [
+        "SNOW",
         "BALL"
       ],
-      "displayForm": "FOOT BALL",
-      "hint": "Round object chased across grassy field by teams"
+      "displayForm": "SNOWBALL",
+      "hint": "A winter projectile",
+      "explanation": "A rolling ball of snow that grows larger as it picks up more snow, symbolizing something that increases rapidly.",
+      "difficulty": 0
     },
     "columns": [
       {
         "index": 0,
         "letters": [
           "B",
-          "F",
+          "N",
+          "H",
+          "S"
+        ],
+        "solutionLetters": [
+          "S",
+          "B"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "H",
           "Y",
+          "N",
+          "A"
+        ],
+        "solutionLetters": [
+          "N",
+          "A"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "F",
+          "L",
+          "O",
           "C"
         ],
         "solutionLetters": [
-          "F",
-          "B"
-        ]
-      },
-      {
-        "index": 1,
-        "letters": [
-          "A",
-          "E",
-          "O",
-          "M"
-        ],
-        "solutionLetters": [
-          "O",
-          "A"
-        ]
-      },
-      {
-        "index": 2,
-        "letters": [
-          "J",
-          "L",
-          "Q",
-          "O"
-        ],
-        "solutionLetters": [
           "O",
           "L"
         ]
@@ -52,527 +126,703 @@
       {
         "index": 3,
         "letters": [
-          "P",
-          "O",
-          "T",
-          "L"
+          "L",
+          "W",
+          "U",
+          "E"
         ],
         "solutionLetters": [
-          "T",
+          "W",
           "L"
         ]
       }
     ],
     "difficulty": 0,
     "source": 2,
-    "seed": 761280,
-    "createdAt": "2026-06-09T09:33:10.771",
-    "dailyDate": "2026-06-08T00:00:00.000"
+    "seed": 679198,
+    "createdAt": "2026-06-11T15:30:01.474",
+    "dailyDate": "2026-06-16T00:00:00.000"
   },
   {
-    "id": "41edb268-3d8d-48ab-8de2-9a74d752ede8",
+    "id": "54199416-59ad-4bfc-89ba-1d0a104a1f38",
     "phrase": {
       "words": [
-        "FIRE",
-        "WALL"
+        "CAVE",
+        "FISH"
       ],
-      "displayForm": "FIRE WALL",
-      "hint": "Digital barrier keeps unwanted visitors out"
+      "displayForm": "CAVE FISH",
+      "hint": "Lives in the dark",
+      "explanation": "Fish that live in dark underground caves have evolved to lose their eyes and develop other sensory abilities.",
+      "difficulty": 1
     },
     "columns": [
       {
         "index": 0,
         "letters": [
-          "W",
-          "O",
-          "Q",
+          "N",
+          "C",
+          "B",
+          "D",
           "F"
         ],
         "solutionLetters": [
-          "F",
-          "W"
+          "C",
+          "F"
         ]
       },
       {
         "index": 1,
         "letters": [
-          "U",
-          "A",
           "I",
-          "Y"
+          "B",
+          "A",
+          "H",
+          "Z"
         ],
         "solutionLetters": [
-          "I",
-          "A"
+          "A",
+          "I"
         ]
       },
       {
         "index": 2,
         "letters": [
-          "L",
-          "R",
-          "T",
-          "I"
-        ],
-        "solutionLetters": [
-          "R",
-          "L"
-        ]
-      },
-      {
-        "index": 3,
-        "letters": [
+          "P",
           "S",
-          "L",
-          "E",
-          "G"
-        ],
-        "solutionLetters": [
-          "E",
-          "L"
-        ]
-      }
-    ],
-    "difficulty": 0,
-    "source": 2,
-    "seed": 1781004880337,
-    "createdAt": "2026-06-09T20:34:40.340",
-    "dailyDate": "2026-06-09T00:00:00.000"
-  },
-  {
-    "id": "5cc2ce38-6640-41f8-8954-e681454b209a",
-    "phrase": {
-      "words": [
-        "HEART",
-        "BREAK"
-      ],
-      "displayForm": "HEART BREAK",
-      "hint": "Love's painful opposite, sudden and sharp",
-      "explanation": "Heartbreak is emotional pain from losing someone you love, metaphorically comparing intense sadness to physical heart damage."
-    },
-    "columns": [
-      {
-        "index": 0,
-        "letters": [
-          "B",
-          "H",
           "M",
           "V",
           "K"
         ],
         "solutionLetters": [
-          "H",
-          "B"
-        ]
-      },
-      {
-        "index": 1,
-        "letters": [
-          "E",
-          "H",
-          "Q",
-          "R",
-          "U"
-        ],
-        "solutionLetters": [
-          "E",
-          "R"
-        ]
-      },
-      {
-        "index": 2,
-        "letters": [
           "V",
-          "A",
-          "E",
-          "F",
-          "P"
-        ],
-        "solutionLetters": [
-          "A",
-          "E"
+          "S"
         ]
       },
       {
         "index": 3,
         "letters": [
-          "H",
-          "A",
           "R",
+          "I",
+          "P",
+          "E",
+          "H"
+        ],
+        "solutionLetters": [
+          "E",
+          "H"
+        ]
+      }
+    ],
+    "difficulty": 1,
+    "source": 2,
+    "seed": 662862,
+    "createdAt": "2026-06-11T15:30:01.516",
+    "dailyDate": "2026-06-17T00:00:00.000"
+  },
+  {
+    "id": "5d26378e-e6be-4a1a-99ba-dcff3ccd2db0",
+    "phrase": {
+      "words": [
+        "BRAIN",
+        "STORM"
+      ],
+      "displayForm": "BRAINSTORM",
+      "hint": "Creative idea session",
+      "explanation": "A brainstorm is a group meeting where people quickly suggest ideas without criticism to solve a problem or create something new.",
+      "difficulty": 1
+    },
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "S",
           "N",
+          "B",
+          "W",
+          "D"
+        ],
+        "solutionLetters": [
+          "B",
+          "S"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "Z",
+          "T",
+          "X",
+          "H",
+          "R"
+        ],
+        "solutionLetters": [
+          "R",
+          "T"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "A",
+          "O",
+          "G",
+          "T",
+          "C"
+        ],
+        "solutionLetters": [
+          "A",
+          "O"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "R",
+          "I",
+          "M",
+          "V",
+          "N"
+        ],
+        "solutionLetters": [
+          "I",
+          "R"
+        ]
+      },
+      {
+        "index": 4,
+        "letters": [
+          "A",
+          "U",
+          "N",
+          "F",
           "M"
         ],
         "solutionLetters": [
-          "R",
-          "A"
-        ]
-      },
-      {
-        "index": 4,
-        "letters": [
-          "T",
-          "Z",
-          "F",
-          "B",
-          "K"
-        ],
-        "solutionLetters": [
-          "T",
-          "K"
+          "N",
+          "M"
         ]
       }
     ],
     "difficulty": 1,
     "source": 2,
-    "seed": 456964,
-    "createdAt": "2026-06-09T09:32:06.427",
-    "dailyDate": "2026-06-10T00:00:00.000"
+    "seed": 501021,
+    "createdAt": "2026-06-11T15:30:01.523",
+    "dailyDate": "2026-06-18T00:00:00.000"
   },
   {
-    "id": "32124f06-28f4-44a8-a89f-550b351c67ad",
+    "id": "117da849-d673-4ae6-b46f-7526309ec278",
     "phrase": {
       "words": [
-        "LIGHT",
-        "HOUSE"
+        "PRESS",
+        "GANGS"
       ],
-      "displayForm": "LIGHTHOUSE",
-      "hint": "Maritime safety",
-      "explanation": "A tall tower with a bright light that guides ships safely past dangerous coastal rocks at night."
+      "displayForm": "PRESS GANGS",
+      "hint": "Forced naval recruitment",
+      "explanation": "Groups that forcibly recruited men into military service, especially the British Navy during the 18th and 19th centuries.",
+      "difficulty": 2
     },
     "columns": [
       {
         "index": 0,
         "letters": [
-          "R",
-          "V",
-          "L",
-          "H",
-          "B"
-        ],
-        "solutionLetters": [
-          "L",
-          "H"
-        ]
-      },
-      {
-        "index": 1,
-        "letters": [
-          "E",
-          "I",
-          "R",
-          "L",
-          "O"
-        ],
-        "solutionLetters": [
-          "I",
-          "O"
-        ]
-      },
-      {
-        "index": 2,
-        "letters": [
-          "U",
-          "Q",
-          "G",
           "Z",
-          "Y"
-        ],
-        "solutionLetters": [
-          "G",
-          "U"
-        ]
-      },
-      {
-        "index": 3,
-        "letters": [
           "S",
-          "H",
-          "J",
-          "O",
-          "U"
-        ],
-        "solutionLetters": [
-          "H",
-          "S"
-        ]
-      },
-      {
-        "index": 4,
-        "letters": [
-          "I",
-          "E",
-          "G",
+          "P",
           "D",
-          "T"
+          "G",
+          "M"
         ],
         "solutionLetters": [
-          "T",
-          "E"
-        ]
-      }
-    ],
-    "difficulty": 1,
-    "source": 2,
-    "seed": 1781157409392,
-    "createdAt": "2026-06-11T14:56:49.407",
-    "dailyDate": "2026-06-11T00:00:00.000"
-  },
-  {
-    "id": "dbbf5880-6fea-4347-b2c3-15c1764871c5",
-    "phrase": {
-      "words": [
-        "NIGHT",
-        "STAND"
-      ],
-      "displayForm": "NIGHTSTAND",
-      "hint": "Bedside convenience",
-      "explanation": "A nightstand is a small table next to a bed for holding lamps and personal items."
-    },
-    "columns": [
-      {
-        "index": 0,
-        "letters": [
-          "Q",
-          "X",
-          "C",
-          "S",
-          "U",
-          "N"
-        ],
-        "solutionLetters": [
-          "N",
-          "S"
+          "P",
+          "G"
         ]
       },
       {
         "index": 1,
-        "letters": [
-          "O",
-          "N",
-          "H",
-          "I",
-          "T",
-          "E"
-        ],
-        "solutionLetters": [
-          "I",
-          "T"
-        ]
-      },
-      {
-        "index": 2,
         "letters": [
           "A",
-          "I",
-          "Z",
-          "U",
-          "J",
+          "K",
+          "Q",
+          "R",
+          "P",
           "G"
         ],
         "solutionLetters": [
-          "G",
+          "R",
           "A"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "G",
+          "N",
+          "A",
+          "H",
+          "E",
+          "X"
+        ],
+        "solutionLetters": [
+          "E",
+          "N"
         ]
       },
       {
         "index": 3,
         "letters": [
-          "M",
-          "O",
-          "W",
-          "H",
-          "N",
-          "R"
+          "V",
+          "A",
+          "S",
+          "G",
+          "P",
+          "M"
         ],
         "solutionLetters": [
-          "H",
-          "N"
+          "S",
+          "G"
         ]
       },
       {
         "index": 4,
         "letters": [
-          "T",
-          "D",
+          "H",
+          "S",
+          "S",
           "P",
-          "A",
-          "W",
-          "I"
+          "F",
+          "X"
         ],
         "solutionLetters": [
-          "T",
-          "D"
+          "S",
+          "S"
         ]
       }
     ],
     "difficulty": 2,
     "source": 2,
-    "seed": 1781157662897,
-    "createdAt": "2026-06-11T15:01:02.902",
-    "dailyDate": "2026-06-12T00:00:00.000"
+    "seed": 23497,
+    "createdAt": "2026-06-11T15:30:01.566",
+    "dailyDate": "2026-06-19T00:00:00.000"
   },
   {
-    "id": "c9533c84-bac7-4185-94e8-65a7648614da",
+    "id": "19dfd190-b52d-4d54-87ba-d3baea8a11c3",
     "phrase": {
       "words": [
         "BUTTER",
-        "SCOTCH"
+        "FINGER"
       ],
-      "displayForm": "BUTTER SCOTCH",
-      "hint": "Sticky situation in Great Britain",
-      "explanation": "Butterscotch is a candy or flavoring made by cooking butter and brown sugar together until caramelized."
+      "displayForm": "BUTTERFINGER",
+      "hint": "Clumsy — or a candy bar",
+      "explanation": "A butter finger is someone clumsy who drops things easily, because butter is slippery.",
+      "difficulty": 2
     },
     "columns": [
       {
         "index": 0,
         "letters": [
           "B",
-          "Q",
-          "R",
-          "N",
-          "S",
-          "F"
+          "M",
+          "A",
+          "F",
+          "D",
+          "O"
         ],
         "solutionLetters": [
           "B",
-          "S"
+          "F"
         ]
       },
       {
         "index": 1,
         "letters": [
+          "I",
           "U",
-          "C",
-          "M",
+          "N",
+          "W",
           "K",
-          "T",
-          "X"
+          "D"
         ],
         "solutionLetters": [
           "U",
-          "C"
+          "I"
         ]
       },
       {
         "index": 2,
         "letters": [
-          "W",
-          "G",
-          "Q",
-          "O",
-          "Z",
-          "T"
+          "V",
+          "I",
+          "H",
+          "T",
+          "U",
+          "N"
         ],
         "solutionLetters": [
           "T",
-          "O"
+          "N"
         ]
       },
       {
         "index": 3,
         "letters": [
+          "F",
+          "S",
           "C",
-          "L",
-          "R",
           "T",
           "H",
-          "T"
+          "G"
         ],
         "solutionLetters": [
           "T",
-          "T"
+          "G"
         ]
       },
       {
         "index": 4,
         "letters": [
-          "J",
-          "M",
-          "E",
-          "Q",
+          "D",
           "C",
-          "H"
+          "E",
+          "A",
+          "R",
+          "E"
         ],
         "solutionLetters": [
           "E",
-          "C"
+          "E"
         ]
       },
       {
         "index": 5,
         "letters": [
-          "K",
-          "C",
-          "X",
-          "Z",
-          "H",
-          "R"
+          "N",
+          "R",
+          "J",
+          "R",
+          "U",
+          "Z"
         ],
         "solutionLetters": [
           "R",
-          "H"
+          "R"
         ]
       }
     ],
     "difficulty": 2,
     "source": 2,
-    "seed": 167551,
-    "createdAt": "2026-06-09T09:32:10.741",
-    "dailyDate": "2026-06-13T00:00:00.000"
+    "seed": 659184,
+    "createdAt": "2026-06-11T15:30:01.568",
+    "dailyDate": "2026-06-20T00:00:00.000"
   },
   {
-    "id": "7c1a6e5a-9ffa-41ac-a699-5a5d5b2f7c13",
+    "id": "2c76b016-387f-4f27-936e-403ddb753c92",
     "phrase": {
       "words": [
-        "WATER",
-        "MELON"
+        "GOLDEN",
+        "EAGLES"
       ],
-      "displayForm": "WATER MELON",
-      "hint": "Summer sweetness, green rind, picnic staple."
+      "displayForm": "GOLDEN EAGLES",
+      "hint": "Majestic birds of prey",
+      "explanation": "Golden eagles are large, powerful birds of prey named for their golden-brown plumage found across the Northern Hemisphere.",
+      "difficulty": 3
     },
     "columns": [
       {
         "index": 0,
         "letters": [
-          "X",
-          "M",
-          "B",
-          "F",
-          "N",
+          "V",
+          "G",
+          "O",
+          "E",
           "W",
-          "H"
+          "Z",
+          "S"
         ],
         "solutionLetters": [
-          "W",
-          "M"
+          "G",
+          "E"
         ]
       },
       {
         "index": 1,
         "letters": [
+          "G",
           "X",
-          "E",
-          "B",
-          "Z",
           "A",
+          "R",
+          "M",
+          "C",
+          "O"
+        ],
+        "solutionLetters": [
+          "O",
+          "A"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "G",
+          "F",
+          "O",
+          "N",
+          "L",
+          "P",
+          "V"
+        ],
+        "solutionLetters": [
+          "L",
+          "G"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "L",
           "V",
-          "J"
+          "O",
+          "D",
+          "R",
+          "W",
+          "K"
+        ],
+        "solutionLetters": [
+          "D",
+          "L"
+        ]
+      },
+      {
+        "index": 4,
+        "letters": [
+          "N",
+          "E",
+          "E",
+          "Z",
+          "P",
+          "H",
+          "R"
+        ],
+        "solutionLetters": [
+          "E",
+          "E"
+        ]
+      },
+      {
+        "index": 5,
+        "letters": [
+          "G",
+          "N",
+          "S",
+          "K",
+          "A",
+          "Q",
+          "E"
+        ],
+        "solutionLetters": [
+          "N",
+          "S"
+        ]
+      }
+    ],
+    "difficulty": 3,
+    "source": 2,
+    "seed": 707602,
+    "createdAt": "2026-06-11T15:30:01.584",
+    "dailyDate": "2026-06-21T00:00:00.000"
+  },
+  {
+    "id": "13a1adc6-f351-46c1-ad3f-0cdcd5362750",
+    "phrase": {
+      "words": [
+        "HEAD",
+        "BAND"
+      ],
+      "displayForm": "HEADBAND",
+      "hint": "Worn across the forehead",
+      "explanation": "A headband is a strip of fabric worn around the forehead or head to absorb sweat or keep hair in place.",
+      "difficulty": 0
+    },
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "H",
+          "W",
+          "B",
+          "E"
+        ],
+        "solutionLetters": [
+          "H",
+          "B"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "K",
+          "E",
+          "C",
+          "A"
+        ],
+        "solutionLetters": [
+          "E",
+          "A"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "E",
+          "A",
+          "N",
+          "O"
         ],
         "solutionLetters": [
           "A",
-          "E"
+          "N"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "D",
+          "D",
+          "C",
+          "L"
+        ],
+        "solutionLetters": [
+          "D",
+          "D"
+        ]
+      }
+    ],
+    "difficulty": 0,
+    "source": 2,
+    "seed": 935696,
+    "createdAt": "2026-06-11T15:30:01.502",
+    "dailyDate": "2026-06-22T00:00:00.000"
+  },
+  {
+    "id": "30515e80-99a6-45ed-8bd3-4ea36492de5f",
+    "phrase": {
+      "words": [
+        "OPEN",
+        "BOOK"
+      ],
+      "displayForm": "OPEN BOOK",
+      "hint": "Easy to understand person",
+      "explanation": "Someone who is an open book readily shares their thoughts and feelings, hiding nothing from others.",
+      "difficulty": 0
+    },
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "F",
+          "B",
+          "O",
+          "T"
+        ],
+        "solutionLetters": [
+          "O",
+          "B"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "P",
+          "G",
+          "O",
+          "U"
+        ],
+        "solutionLetters": [
+          "P",
+          "O"
         ]
       },
       {
         "index": 2,
         "letters": [
           "O",
-          "T",
-          "L",
+          "E",
+          "J",
+          "Z"
+        ],
+        "solutionLetters": [
+          "E",
+          "O"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
           "N",
+          "K",
+          "O",
+          "L"
+        ],
+        "solutionLetters": [
+          "N",
+          "K"
+        ]
+      }
+    ],
+    "difficulty": 0,
+    "source": 2,
+    "seed": 177861,
+    "createdAt": "2026-06-11T15:30:01.496",
+    "dailyDate": "2026-06-23T00:00:00.000"
+  },
+  {
+    "id": "5daf936e-f75a-4568-a76b-4acce659c27d",
+    "phrase": {
+      "words": [
+        "WATER",
+        "FALLS"
+      ],
+      "displayForm": "WATERFALLS",
+      "hint": "Cascading natural water",
+      "explanation": "Water continuously flows downward from high elevations due to gravity, creating the natural phenomenon we call waterfalls.",
+      "difficulty": 1
+    },
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "F",
+          "Q",
+          "D",
+          "W",
+          "M"
+        ],
+        "solutionLetters": [
+          "W",
+          "F"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "Z",
+          "A",
+          "F",
+          "V",
+          "A"
+        ],
+        "solutionLetters": [
+          "A",
+          "A"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "X",
+          "T",
           "R",
-          "Y",
-          "I"
+          "L",
+          "V"
         ],
         "solutionLetters": [
           "T",
@@ -582,40 +832,534 @@
       {
         "index": 3,
         "letters": [
-          "S",
+          "H",
           "T",
-          "O",
-          "B",
           "E",
-          "F",
-          "K"
+          "L",
+          "D"
         ],
         "solutionLetters": [
           "E",
-          "O"
+          "L"
         ]
       },
       {
         "index": 4,
         "letters": [
           "S",
+          "Y",
+          "B",
           "R",
-          "F",
-          "E",
-          "U",
-          "N",
-          "L"
+          "H"
         ],
         "solutionLetters": [
           "R",
+          "S"
+        ]
+      }
+    ],
+    "difficulty": 1,
+    "source": 2,
+    "seed": 394776,
+    "createdAt": "2026-06-11T15:30:01.541",
+    "dailyDate": "2026-06-24T00:00:00.000"
+  },
+  {
+    "id": "6227884d-621c-4fd1-9b05-d1030ad1e63d",
+    "phrase": {
+      "words": [
+        "CLOUD",
+        "BURST"
+      ],
+      "displayForm": "CLOUDBURST",
+      "hint": "Sudden heavy rain",
+      "explanation": "A cloudburst is an extremely heavy rainfall that occurs suddenly when moisture-laden clouds release their contents rapidly over a small area.",
+      "difficulty": 1
+    },
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "U",
+          "X",
+          "C",
+          "R",
+          "B"
+        ],
+        "solutionLetters": [
+          "C",
+          "B"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "Z",
+          "L",
+          "U",
+          "T",
+          "X"
+        ],
+        "solutionLetters": [
+          "L",
+          "U"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "P",
+          "V",
+          "R",
+          "O",
+          "H"
+        ],
+        "solutionLetters": [
+          "O",
+          "R"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "J",
+          "S",
+          "U",
+          "A",
+          "T"
+        ],
+        "solutionLetters": [
+          "U",
+          "S"
+        ]
+      },
+      {
+        "index": 4,
+        "letters": [
+          "K",
+          "H",
+          "X",
+          "T",
+          "D"
+        ],
+        "solutionLetters": [
+          "D",
+          "T"
+        ]
+      }
+    ],
+    "difficulty": 1,
+    "source": 2,
+    "seed": 611001,
+    "createdAt": "2026-06-11T15:30:01.528",
+    "dailyDate": "2026-06-25T00:00:00.000"
+  },
+  {
+    "id": "440172ca-6b1c-4f4d-a044-bc5d5ed91f74",
+    "phrase": {
+      "words": [
+        "DOUBLE",
+        "AGENTS"
+      ],
+      "displayForm": "DOUBLE AGENTS",
+      "hint": "Spies for both sides",
+      "explanation": "A spy who secretly works for two opposing sides at once, betraying one or both while appearing loyal.",
+      "difficulty": 2
+    },
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "W",
+          "D",
+          "O",
+          "Y",
+          "P",
+          "A"
+        ],
+        "solutionLetters": [
+          "D",
+          "A"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "W",
+          "G",
+          "B",
+          "O",
+          "N",
+          "T"
+        ],
+        "solutionLetters": [
+          "O",
+          "G"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "U",
+          "X",
+          "E",
+          "K",
+          "A",
+          "T"
+        ],
+        "solutionLetters": [
+          "U",
+          "E"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "C",
+          "B",
+          "H",
+          "O",
+          "V",
           "N"
+        ],
+        "solutionLetters": [
+          "B",
+          "N"
+        ]
+      },
+      {
+        "index": 4,
+        "letters": [
+          "A",
+          "C",
+          "S",
+          "R",
+          "T",
+          "L"
+        ],
+        "solutionLetters": [
+          "L",
+          "T"
+        ]
+      },
+      {
+        "index": 5,
+        "letters": [
+          "S",
+          "E",
+          "H",
+          "P",
+          "A",
+          "G"
+        ],
+        "solutionLetters": [
+          "E",
+          "S"
+        ]
+      }
+    ],
+    "difficulty": 2,
+    "source": 2,
+    "seed": 448569,
+    "createdAt": "2026-06-11T15:30:01.578",
+    "dailyDate": "2026-06-26T00:00:00.000"
+  },
+  {
+    "id": "45ff54bd-9345-4e98-bcd4-2fcae4854490",
+    "phrase": {
+      "words": [
+        "MASTER",
+        "PIECES"
+      ],
+      "displayForm": "MASTERPIECES",
+      "hint": "Greatest works of art",
+      "explanation": "The term refers to outstanding works of art or craftsmanship that demonstrate exceptional skill and creativity.",
+      "difficulty": 2
+    },
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "D",
+          "M",
+          "Q",
+          "P",
+          "L",
+          "R"
+        ],
+        "solutionLetters": [
+          "M",
+          "P"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "U",
+          "W",
+          "I",
+          "A",
+          "J",
+          "M"
+        ],
+        "solutionLetters": [
+          "A",
+          "I"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "K",
+          "A",
+          "E",
+          "S",
+          "U",
+          "H"
+        ],
+        "solutionLetters": [
+          "S",
+          "E"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "V",
+          "U",
+          "L",
+          "C",
+          "Z",
+          "T"
+        ],
+        "solutionLetters": [
+          "T",
+          "C"
+        ]
+      },
+      {
+        "index": 4,
+        "letters": [
+          "E",
+          "R",
+          "P",
+          "E",
+          "U",
+          "S"
+        ],
+        "solutionLetters": [
+          "E",
+          "E"
+        ]
+      },
+      {
+        "index": 5,
+        "letters": [
+          "R",
+          "A",
+          "H",
+          "O",
+          "S",
+          "B"
+        ],
+        "solutionLetters": [
+          "R",
+          "S"
+        ]
+      }
+    ],
+    "difficulty": 2,
+    "source": 2,
+    "seed": 708109,
+    "createdAt": "2026-06-11T15:30:01.571",
+    "dailyDate": "2026-06-27T00:00:00.000"
+  },
+  {
+    "id": "6509cbd0-ce7f-4730-b6df-41a39935ab7f",
+    "phrase": {
+      "words": [
+        "FROZEN",
+        "TUNDRA"
+      ],
+      "displayForm": "FROZEN TUNDRA",
+      "hint": "Arctic landscape",
+      "explanation": "A vast, treeless Arctic landscape where the ground stays permanently frozen year-round, supporting minimal plant life.",
+      "difficulty": 3
+    },
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "U",
+          "H",
+          "G",
+          "F",
+          "V",
+          "Y",
+          "T"
+        ],
+        "solutionLetters": [
+          "F",
+          "T"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "R",
+          "N",
+          "U",
+          "H",
+          "T",
+          "L",
+          "F"
+        ],
+        "solutionLetters": [
+          "R",
+          "U"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "M",
+          "G",
+          "F",
+          "K",
+          "N",
+          "O",
+          "E"
+        ],
+        "solutionLetters": [
+          "O",
+          "N"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "U",
+          "D",
+          "J",
+          "M",
+          "Z",
+          "L",
+          "F"
+        ],
+        "solutionLetters": [
+          "Z",
+          "D"
+        ]
+      },
+      {
+        "index": 4,
+        "letters": [
+          "R",
+          "O",
+          "E",
+          "N",
+          "P",
+          "F",
+          "K"
+        ],
+        "solutionLetters": [
+          "E",
+          "R"
+        ]
+      },
+      {
+        "index": 5,
+        "letters": [
+          "I",
+          "X",
+          "A",
+          "N",
+          "Y",
+          "Z",
+          "F"
+        ],
+        "solutionLetters": [
+          "N",
+          "A"
         ]
       }
     ],
     "difficulty": 3,
-    "source": 0,
-    "seed": 748171,
-    "createdAt": "2026-06-09T09:32:16.442",
-    "dailyDate": "2026-06-14T00:00:00.000"
+    "source": 2,
+    "seed": 101993,
+    "createdAt": "2026-06-11T15:30:01.587",
+    "dailyDate": "2026-06-28T00:00:00.000"
+  },
+  {
+    "id": "376dff32-c9e0-4b5d-9e5f-2e782d6fee46",
+    "phrase": {
+      "words": [
+        "RAIN",
+        "FALL"
+      ],
+      "displayForm": "RAINFALL",
+      "hint": "Precipitation measurement",
+      "explanation": "Water drops descend from clouds to Earth's surface due to gravity, a natural weather phenomenon essential for life.",
+      "difficulty": 0
+    },
+    "columns": [
+      {
+        "index": 0,
+        "letters": [
+          "F",
+          "Q",
+          "R",
+          "J"
+        ],
+        "solutionLetters": [
+          "R",
+          "F"
+        ]
+      },
+      {
+        "index": 1,
+        "letters": [
+          "A",
+          "K",
+          "C",
+          "A"
+        ],
+        "solutionLetters": [
+          "A",
+          "A"
+        ]
+      },
+      {
+        "index": 2,
+        "letters": [
+          "D",
+          "I",
+          "L",
+          "C"
+        ],
+        "solutionLetters": [
+          "I",
+          "L"
+        ]
+      },
+      {
+        "index": 3,
+        "letters": [
+          "Y",
+          "L",
+          "N",
+          "Q"
+        ],
+        "solutionLetters": [
+          "N",
+          "L"
+        ]
+      }
+    ],
+    "difficulty": 0,
+    "source": 2,
+    "seed": 722796,
+    "createdAt": "2026-06-11T15:30:01.476",
+    "dailyDate": "2026-06-29T00:00:00.000"
   }
 ]
